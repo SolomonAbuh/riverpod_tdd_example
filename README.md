@@ -191,11 +191,6 @@ lib
 
 ` git clone https://github.com/SolomonAbuh/riverpod_tdd_example.git`
 
-
-##### Go to the project directory
-
-` cd flutter-clean-architecture-riverpod`
-
 ##### Get all the packages
 
 `flutter pub get`
